@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "76068d7ac4b2b8dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "db60e02b3fac4e75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02b34e3533ee8764",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dungeons/FirstDungeon/FirstDungeon.canvas",
+                "viewState": {
+                  "x": 28,
+                  "y": 1,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "FirstDungeon"
+            }
+          },
+          {
+            "id": "92d209fa30b35a74",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Dungeons/FirstDungeon/FactoryTilesetIdea.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "FactoryTilesetIdea"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9221c1992e3436b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cb280fb411549af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dceee0188824619c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eac46d9e871c25fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab39543d99627ae1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8aafd4d885875687",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6148e9f98c494ff3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "94f3453a9e0fb665",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d87271c6f3a9ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78bbe49606210d2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dungeons/FirstDungeon/FirstDungeon.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for FirstDungeon"
+            }
+          },
+          {
+            "id": "533821e87d535f76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dungeons/FirstDungeon/FirstDungeon.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from FirstDungeon"
+            }
+          },
+          {
+            "id": "14d40a2d9fa5b025",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17a35360731df39f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9c2c093ff51af639",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dungeons/FirstDungeon/FirstDungeon.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of FirstDungeon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "02b34e3533ee8764",
+  "lastOpenFiles": [
+    "Dungeons/FirstDungeon/FirstDungeon.canvas",
+    "Dungeons/FirstDungeon/LiquidContainer.png",
+    "Dungeons/FirstDungeon/First dungeon.md",
+    "Dungeons/FirstDungeon/FactoryTilesetIdea.jpg",
+    "Welcome.md",
+    "Untitled",
+    "create a link.md",
+    "Dungeons/FirstDungeon",
+    "Dungeons"
+  ]
+}
