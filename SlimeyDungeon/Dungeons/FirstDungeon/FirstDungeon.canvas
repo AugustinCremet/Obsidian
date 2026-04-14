@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"973ba7bbaa99a204","type":"file","file":"Dungeons/FirstDungeon/FactoryTilesetIdea.jpg","x":-189,"y":-219,"width":143,"height":400},
-		{"id":"7b85a024d6ad9a0c","type":"file","file":"Dungeons/FirstDungeon/LiquidContainer.png","x":40,"y":-219,"width":399,"height":317}
-	],
-	"edges":[]
-}

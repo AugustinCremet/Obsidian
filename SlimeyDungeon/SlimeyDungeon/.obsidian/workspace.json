@@ -1,49 +1,34 @@
 {
   "main": {
-    "id": "76068d7ac4b2b8dd",
+    "id": "941366602a607249",
     "type": "split",
     "children": [
       {
-        "id": "db60e02b3fac4e75",
+        "id": "a166e86f1da86c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "02b34e3533ee8764",
+            "id": "f3cba992a5046946",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dungeons/FirstDungeon/FirstDungeon.canvas",
-                "viewState": {
-                  "x": 28,
-                  "y": 1,
-                  "zoom": 0
-                }
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "FirstDungeon"
-            }
-          },
-          {
-            "id": "92d209fa30b35a74",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Dungeons/FirstDungeon/FactoryTilesetIdea.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "FactoryTilesetIdea"
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ]
       },
       {
-        "id": "9221c1992e3436b8",
+        "id": "ce1476a086515b32",
         "type": "tabs",
         "children": [
           {
-            "id": "2cb280fb411549af",
+            "id": "2e3bb7fc7e54044d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -58,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dceee0188824619c",
+    "id": "c0e7ac79836b8dea",
     "type": "split",
     "children": [
       {
-        "id": "eac46d9e871c25fd",
+        "id": "66f9da1d8c6d445a",
         "type": "tabs",
         "children": [
           {
-            "id": "ab39543d99627ae1",
+            "id": "6c4cbe3d69a0f86c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -79,7 +64,7 @@
             }
           },
           {
-            "id": "8aafd4d885875687",
+            "id": "43a321028ef03fa4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,7 +81,7 @@
             }
           },
           {
-            "id": "6148e9f98c494ff3",
+            "id": "5dbc0deb3bfc1035",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,23 +94,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 300
   },
   "right": {
-    "id": "94f3453a9e0fb665",
+    "id": "8b2b767919ad737e",
     "type": "split",
     "children": [
       {
-        "id": "77d87271c6f3a9ce",
+        "id": "0df2c486acdba894",
         "type": "tabs",
         "children": [
           {
-            "id": "78bbe49606210d2c",
+            "id": "12ca427a0678a468",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeons/FirstDungeon/FirstDungeon.canvas",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FirstDungeon"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "533821e87d535f76",
+            "id": "88e2a02aeab5d5ae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons/FirstDungeon/FirstDungeon.canvas",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from FirstDungeon"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "14d40a2d9fa5b025",
+            "id": "b642d17859145cb5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,7 +153,7 @@
             }
           },
           {
-            "id": "17a35360731df39f",
+            "id": "65bd6959ea68b1c2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -182,18 +167,18 @@
             }
           },
           {
-            "id": "9c2c093ff51af639",
+            "id": "1d7805c48780fa0c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeons/FirstDungeon/FirstDungeon.canvas",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FirstDungeon"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -214,16 +199,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "02b34e3533ee8764",
+  "active": "f3cba992a5046946",
   "lastOpenFiles": [
-    "Dungeons/FirstDungeon/FirstDungeon.canvas",
-    "Dungeons/FirstDungeon/LiquidContainer.png",
-    "Dungeons/FirstDungeon/First dungeon.md",
-    "Dungeons/FirstDungeon/FactoryTilesetIdea.jpg",
-    "Welcome.md",
-    "Untitled",
-    "create a link.md",
-    "Dungeons/FirstDungeon",
-    "Dungeons"
+    "FactoryTilesetIdea.jpg",
+    "LiquidContainer.png",
+    "Welcome.md"
   ]
 }
